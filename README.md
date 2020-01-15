@@ -1,6 +1,10 @@
-# darkmode
+# Flutter Dark Mode Example
 
-A new Flutter project.
+Flutter Dark Mode Example using [provider](https://pub.dev/packages/provider).
+
+|                                       |                                     |
+| ------------------------------------- | ----------------------------------- |
+| ![Light Mode](flutter-light-mode.png) | ![Dark Mode](flutter-dark-mode.png) |
 
 ## Getting Started
 
